@@ -3,7 +3,8 @@ Soal dan Jawaban Latihan di Python
 
 Berikut ini adalah soal dan jawaban latihan di python yang saya jawab yaitu:
 
-1. Python - Quiz
+1. Python Exercise
+2. Python - Quiz
 
 
 
