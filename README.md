@@ -12,6 +12,6 @@ Berikut ini adalah soal dan jawaban latihan di python yang saya jawab yaitu:
 
 Sumber Soal yaitu: 
 
-a. https://www.w3schools.com/python/python_exercises.asp
-b. https://www.proprofs.com/quiz-school/quizreport.php?title=mtuwmjc4naae8c&sid=207769474
-c. https://www.proprofs.com/quiz-school/quizreport.php?title=ODE4NTY3C5EA&sid=207772042
+- https://www.w3schools.com/python/python_exercises.asp
+- https://www.proprofs.com/quiz-school/quizreport.php?title=mtuwmjc4naae8c&sid=207769474
+- https://www.proprofs.com/quiz-school/quizreport.php?title=ODE4NTY3C5EA&sid=207772042
